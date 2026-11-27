@@ -12,7 +12,7 @@ OLÁ MEU NOME E CLEITON
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Francleiton, tenho 25 anos e possuo experiência profissional com carteira assinada como Operador de Máquinas, área em que desenvolvi responsabilidade, disciplina e trabalho em equipe. Sou formado em Sistemas de Informação pelo Centro Universitário Santa Terezinha (CEST) e também tenho conhecimentos e experiências com desenvolvimento de sistemas e aplicações, utilizando tecnologias como Java, JavaScript, Python, HTML, CSS, React e MySQL. Estou em busca de uma oportunidade como Desenvolvedor Back-end Júnior para colocar meus conhecimentos em prática, contribuir com a empresa e continuar crescendo profissionalmente na área de tecnologia.
+Olá! Sou Francleiton, formado em Sistemas de Informação pelo CEST. Tenho experiência profissional como Operador de Máquinas e conhecimentos em desenvolvimento de software, com foco em Java, JavaScript, Python, React, HTML, CSS e MySQL. Sou apaixonado por tecnologia, aprendizado contínuo e criação de soluções através da programação. 🚀
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich">
